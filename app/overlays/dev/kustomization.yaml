@@ -8,7 +8,8 @@ images:
     newTag: 1.0.0
 replicas:
   - name: gitops-demo
-    count: 4
-
+    count: 2
 
     
+
+
