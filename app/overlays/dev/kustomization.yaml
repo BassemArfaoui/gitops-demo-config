@@ -5,11 +5,11 @@ resources:
   - ../../base
 images:
   - name: arfbassem123/gitops-demo
-    newTag: 1.0.0
+    newTag: 9.9.9-does-not-exist
 replicas:
   - name: gitops-demo
     count: 2
 
-    
+
 
 
